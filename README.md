@@ -31,8 +31,7 @@ cd test-node-one
 vagrant up --provider=virtualbox # or --provider=libvirt
 ```
 
-This setup will use the following IP addresses:
-***
+5. This setup will use the following IP addresses:
 
 | IP           | Hostname                  | Description                |
 |--------------|---------------------------|----------------------------|
